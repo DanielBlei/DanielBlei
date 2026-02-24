@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**DanielBlei/DanielBlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daniel, a Senior Engineer focused on distributed systems, Kubernetes, and Go.
+I'm drawn to infrastructure, debugging moving pieces, tooling and experimenting.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Kubernetes & operators** — reconciliation patterns, multi-component lifecycle
+- **Go** — infrastructure, tooling and systems work
+- **Distributed systems** — debugging, observability, resilience
+- **AI workflows** — exploring how tooling and AI can reduce friction and abstraction in workflows
+- **Open source** — learning from communities and contributing back
+
+Currently exploring: [pipeline-forge](https://github.com/DanielBlei/pipeline-forge) — Kubernetes-native pipeline platform in Go.
